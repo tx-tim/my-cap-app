@@ -1,0 +1,7 @@
+{
+  "name": "my-cap-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
